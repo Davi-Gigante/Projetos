@@ -1,0 +1,92 @@
+h2{
+    font-family:Arial, Helvetica, sans-serif;    
+    color: blue;
+    text-align: center;
+    text-shadow: 1;
+}
+
+h3{
+    font-size:120%;
+    font-family:Arial, Helvetica, sans-serif;    
+    color: rgb(243, 32, 32);
+    text-align: center;
+    text-shadow: 1;
+}
+
+input{
+    cursor: pointer;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius:0.5cap;
+    text-align: center;
+}
+
+textarea{
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    width: 50%;
+    padding: 12px 20px;
+    box-sizing:border-box;
+    border-radius: 0.5cap; 
+    margin: 8px 0;
+   
+}
+
+body{
+    background-image:url(image/nba-logo-9y2dq91klhsh65jq.png.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    box-shadow: 1cap;
+    height: 100vh;
+    margin: 0;
+}
+.p1{
+    font-size: small;
+}
+
+button{
+    width: 50%;
+    padding:1cap;
+    margin: 1cap;
+    border-radius: 6px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(78, 122, 202);
+}
+
+.form{
+    background-color: rgba(255, 255, 255, 0.5);
+    width: 450px;
+    margin: auto;
+    padding: auto;
+    border-radius: 2cap;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin: 1px;
+    text-align: center;
+
+}
+select{
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    width: 20%;
+    padding: 4px 10px;
+    box-sizing:border-box;
+    border-radius: 0.5cap; 
+    margin: 8px 0;
+}
